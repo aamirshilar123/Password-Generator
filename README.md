@@ -1,1 +1,2 @@
 # Password-Generator
+Description : Password-Generator is a powerful and easy-to-use web application built with JavaScript that offers users a convenient way to create strong and secure passwords consisting of random alphabets, numbers, and special characters. In a world where online security is paramount, having a reliable tool like SecurePassGen can help users generate complex passwords that greatly enhance their digital safety.
